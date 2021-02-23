@@ -13,4 +13,9 @@ Cenário de erro
  	Quando o professor tenta cadastrar uma nota em um formato definido da meta. Ex: tentar cadastrar “MPA” numa meta que recebe notas de 0 a 10
 
 
+Cenário quando não há discrepancia
+Given a
+And A
+When A
+Then A
 	
