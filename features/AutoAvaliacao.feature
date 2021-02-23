@@ -14,8 +14,8 @@ Cenário de erro
 
 
 Cenário quando não há discrepancia
-Given a
+Given A
 And A
 When A
-Then A
+Then B
 	
