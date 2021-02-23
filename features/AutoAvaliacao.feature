@@ -17,5 +17,6 @@ Cenário quando não há discrepancia
 Given A
 And A
 When A
-Then B
+Then A
+linha final para conflito
 	
